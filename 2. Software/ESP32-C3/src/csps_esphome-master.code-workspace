@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Projects/C++/csps_esphome-master"
+		},
+		{
+			"name": "ESP32C3_CSPS",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cstddef": "cpp"
+		}
+	}
+}
